@@ -1,0 +1,1 @@
+Licensed under GPLv3. This means that you may only use it on a fully open source project. If you want to use it outside of these terms please contact me and I will re-license it under different terms depending on the situation.
